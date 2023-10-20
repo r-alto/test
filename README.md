@@ -1,2 +1,6 @@
 # test
-Das ist ein Test Repository
+Das ist ein **Test Repository** 
+
+## To-dos:
+- [ ] readem.md befüllen
+- [ ] ....
