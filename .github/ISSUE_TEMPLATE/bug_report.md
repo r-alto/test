@@ -1,38 +1,42 @@
 ---
 name: Bug report
-about: Erstellen Sie einen Bericht, der uns hilft, uns zu verbessern
-title: ''
+about: Erstellen Sie einen Bericht, der uns hilft, uns zu verbessern.
+title: "[BUG]"
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Beschreibe den Bug**
+Eine klare und prägnante Beschreibung des Bugs. 
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Reproduzierbarkeit**
+Schritte zum Reproduzieren des Verhaltens:
+1. Gehe zu '...'
+2. Klicke auf '....'
+3. Rolle nach unten bis '....'
+4. Siehe Fehler
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Erwartetes Verhalten**
+Eine klare und prägnante Beschreibung dessen, was Sie erwartet haben.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Fügen Sie ggf. Screenshots hinzu, um Ihr Problem zu erklären.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Zusätzliche Angaben**
+Weitere Angaben zum Bug oder zur Reproduzierbarkeit,.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Datenbank**
+Server:
+Port:
+Datenbankname:
+Datenbankanmeldung:
 
-**Additional context**
-Add any other context about the problem here.
+**Webserver**
+Server:
+Port:
+
+**Anwendung**
+Mandant:
+Benutzername:
+Passwort:
